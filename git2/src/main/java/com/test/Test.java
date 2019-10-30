@@ -9,8 +9,11 @@ package com.test;
  */
 public class Test {
     public static void main(String[] args) {
+
+        //循环测试
         for (int i = 0; i < 10; i++) {
 
+            //输出
             System.out.println(i);
 
         }
